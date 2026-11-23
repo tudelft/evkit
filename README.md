@@ -15,9 +15,9 @@ Yilun Wu<sup>1,2</sup> and Guido C. H. E. de Croon<sup>1</sup>
 <sup>2</sup> Machine Learning Group, Centrum Wiskunde & Informatica (CWI)
 
 > [!NOTE]
-> **Code coming soon.** We are preparing EVKit for public release and will publish the
-> code in this repository very soon. Watch or star the repository to be notified when it
-> is available.
+> **Code release: 30 November 2026.** We are preparing EVKit for public release and will
+> publish the code in this repository on 30 November 2026. Watch or star the repository to
+> be notified when it is available.
 
 ## About
 
